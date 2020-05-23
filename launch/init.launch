@@ -9,7 +9,7 @@
 	    
 	    <arg name="paused" value="false"/>
 	    <arg name="use_sim_time" value="true"/>
-	    <arg name="world" value="world_qrt"/>
+	    <arg name="world" value="loc_2"/>
   </include>
 
 
